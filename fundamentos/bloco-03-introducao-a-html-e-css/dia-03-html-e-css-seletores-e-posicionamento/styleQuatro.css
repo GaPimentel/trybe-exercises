@@ -21,3 +21,23 @@ div:nth-child(6) {
 div:nth-child(7) {
     background-color: lightblue;
 }
+
+div:nth-child(3) h3:nth-child(1) {
+    color: red;
+}
+
+div:nth-child(4) h3:nth-child(1) {
+    color: darkred;
+}
+
+div:nth-child(5) h3:nth-child(1) {
+    color: orangered;
+}
+
+div:nth-child(6) h3:nth-child(1) {
+    color: yellow;
+}
+
+div:nth-child(7) h3:nth-child(1) {
+    color: brown;
+}
