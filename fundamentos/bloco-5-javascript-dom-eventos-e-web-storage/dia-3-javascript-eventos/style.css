@@ -12,12 +12,12 @@ body {
   width: 100vw;
 }
 
-.container {
+ul {
   display: flex;
   flex-flow: row wrap;
 }
 
-.container li {
+li {
   align-items: center;
   display: flex;
   flex-flow: column wrap;
